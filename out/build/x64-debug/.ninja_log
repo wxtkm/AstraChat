@@ -1,0 +1,24 @@
+# ninja log v7
+77	2356	8021953570200150	AstraChat/CMakeFiles/Server.dir/core/ThreadPool.cpp.obj	509db3302b8b03e5
+20	1527	8021920257123908	AstraChat/CMakeFiles/Server.dir/core/Logger.cpp.obj	70680bcc317d3a3c
+68	2699	8021953570075158	AstraChat/CMakeFiles/Server.dir/chat/Room.cpp.obj	1605150fd741f980
+59	3107	8021953570033849	AstraChat/CMakeFiles/Server.dir/network/Connection.cpp.obj	725c01002c8dc0d5
+66	1288	8021921968648554	AstraChat/CMakeFiles/Server.dir/chat/User.cpp.obj	2eb2d72be62d38df
+10	1484	8010947683759451	AstraChat/CMakeFiles/Server.dir/AstraChat.cpp.obj	8d1d16aea2a96171
+47	3532	8021953569901878	AstraChat/CMakeFiles/Server.dir/server/Server.cpp.obj	fdf14e7a1edcbad5
+31	1701	8013476430640417	AstraChat/CMakeFiles/Client.dir/client/Client.cpp.obj	cdc022126da2354c
+2580	2939	8021930069404385	AstraChat/Server.exe	a0cbc32fac19b66a
+1703	1959	8013476447398637	AstraChat/Client.exe	c7f273ff3885043d
+6	301	8021958627069776	build.ninja	2d4adf95bbed4ac
+6	301	8021958626916095	C:/Users/dimak/OneDrive/Desktop/pet_projects/AstraChat/out/build/x64-debug/cmake_install.cmake	2d4adf95bbed4ac
+6	301	8021958627009046	C:/Users/dimak/OneDrive/Desktop/pet_projects/AstraChat/out/build/x64-debug/AstraChat/cmake_install.cmake	2d4adf95bbed4ac
+94	2320	8021953570334114	AstraChat/CMakeFiles/Client.dir/server/RoomManager.cpp.obj	9f61be147e0b525e
+86	2362	8021953570293631	AstraChat/CMakeFiles/Server.dir/server/RoomManager.cpp.obj	c9b2ed435f354ecb
+34	272	8021958627069776	build.ninja	2d4adf95bbed4ac
+34	272	8021958627069776	C:/Users/dimak/OneDrive/Desktop/pet_projects/AstraChat/out/build/x64-debug/cmake_install.cmake	2d4adf95bbed4ac
+34	272	8021958627069776	C:/Users/dimak/OneDrive/Desktop/pet_projects/AstraChat/out/build/x64-debug/AstraChat/cmake_install.cmake	2d4adf95bbed4ac
+83	671	8021958629058133	AstraChat/Client.exe	c7f273ff3885043d
+70	2645	8021958628926260	AstraChat/CMakeFiles/Server.dir/core/Logger.cpp.obj	70680bcc317d3a3c
+58	3070	8021958628768804	AstraChat/CMakeFiles/Server.dir/chat/Room.cpp.obj	1605150fd741f980
+41	3663	8021958628592941	AstraChat/CMakeFiles/Server.dir/server/Server.cpp.obj	fdf14e7a1edcbad5
+3664	4028	8021958664867605	AstraChat/Server.exe	6dd35a6362db816a

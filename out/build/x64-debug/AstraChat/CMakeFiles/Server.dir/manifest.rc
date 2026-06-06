@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "C:/Users/dimak/OneDrive/Desktop/pet_projects/AstraChat/out/build/x64-debug/AstraChat/CMakeFiles/Server.dir/embed.manifest"
