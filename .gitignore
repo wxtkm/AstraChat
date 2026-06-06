@@ -1,0 +1,29 @@
+# Visual Studio
+.vs/
+
+# CMake build
+out/
+build/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+CMakeLists.txt.user
+
+# Ninja
+*.ninja
+*.ninja_log
+*.ninja_deps
+
+# Build outputs
+x64-debug/
+x64/
+Debug/
+Release/
+
+# Logs / temp
+*.log
+*.json
+
+# OS
+.DS_Store
+Thumbs.db
